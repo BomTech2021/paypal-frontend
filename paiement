@@ -1,1 +1,2 @@
 echo "enter name of customer" 
+echo "enter last four digit of your card"
